@@ -1,5 +1,8 @@
 # HealthCoder-2023-Submission
 
+  
+  <img align="right" height="150" alt="img" src="https://cdn.pixabay.com/photo/2022/01/15/13/21/digitization-6939537_1280.jpg" padding="3px"  />
+
 This repository contains a machine learning project focused on predicting heart disease. The goal of this project is to develop a model that can accurately classify whether a person is likely to have heart disease based on various medical attributes. The data have been abstacted from UCI Mschine Learning repository. This README file provides an introduction to the project, outlines its objectives and provides a brief summary to the group project.
 
 ## Introduction
