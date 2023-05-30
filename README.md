@@ -22,3 +22,22 @@ Our motivation to persue this project was:
 
 By achieving these objectives, we aim to contribute to the field of healthcare by providing an accurate and efficient tool for heart disease prediction using machine learning techniques. It is important to note that this project is for research and educational purposes and should not replace professional medical advice or diagnosis.
 
+
+## Check out the dataset
+
+![Screenshot (13)](https://github.com/Pr-at30/HealthCoder-2023-Submission/assets/77499411/15f1d0c7-6f5a-49fc-9fe5-992fa6e25883)
+
+ <p align="center"><a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"><strong>Kaggle »</strong></a> </p>
+    
+    
+ ## Machine learning Algorithms used
+ 
+* K-Nearest Neighbours
+* C-Support Vector
+* Decision Tree
+* Random Forest Algorithm
+* AdaBoost Boosting technique
+* Naive Bayes
+ 
+
+  
